@@ -15,9 +15,6 @@
     "lint": "ng lint --force",
     "e2e": "ng e2e"
   },
-  "pre-commit": [
-    "lint"
-  ],
   "private": true,
   "dependencies": {
     "@angular-devkit/build-angular": "~0.1102.7",
